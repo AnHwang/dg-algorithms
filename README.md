@@ -21,4 +21,4 @@ For experiments, GPU acceleration is recommended. I ran most of the experiments 
 For any additional questions and any bugs, You can reach out to huangan@glut.edu.cn.
 
 
-The source code used in the experiments are located in DomainBed[https://github.com/facebookresearch/DomainBed] repository(Licensed under the MIT license). Documentation can be found at the original repository.
+The source code used in the experiments are located in DomainBed [https://github.com/facebookresearch/DomainBed] repository(Licensed under the MIT license). Documentation can be found at the original repository.
